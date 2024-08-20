@@ -2,3 +2,4 @@
 Aula 3 - DevOps
 
 Prof. MSc. Ezequiel Muxito
+Lab 6
